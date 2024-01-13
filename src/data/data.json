@@ -1,0 +1,74 @@
+{
+    "user": {
+        "name": "Prince Doe",
+        "username": "doeprince",
+        "email": "princedoe@example.com",
+        "contact": "+23494838943",
+        "password": "clickinsure@1234",
+        "socialMediaHandles": {
+            "x": "@princedoe_twitter",
+            "facebook": "princedoe_facebook",
+            "instagram": "princedoe_instagram"
+        },
+        "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus malesuada erat eget tempor gravida.",
+        "insurancePolicies": [
+            [
+                [
+                    {
+                        "policyNumber": "ABC123",
+                        "policyType": "Life Insurance",
+                        "coverageAmount": "¢500,000",
+                        "deductible": "¢1,000",
+                        "policyPeriod": "10 years"
+                    }
+                ]
+            ],
+            [
+                [
+                    {
+                        "policyNumber": "XYZ456",
+                        "policyType": "Health Insurance",
+                        "coverageAmount": "¢200,000",
+                        "deductible": "¢500",
+                        "policyPeriod": "5 years"
+                    }
+                ]
+            ],
+            [
+                [
+                    {
+                        "policyNumber": "DEF789",
+                        "policyType": "Car Insurance",
+                        "coverageAmount": "¢50,000",
+                        "deductible": "¢250",
+                        "policyPeriod": "1 year"
+                    }
+                ]
+            ],
+            [
+                [
+                    {
+                        "policyNumber": "GHI321",
+                        "policyType": "Home Insurance",
+                        "coverageAmount": "¢1,000,000",
+                        "deductible": "¢1,500",
+                        "policyPeriod": "20 years"
+                    }
+                ]
+            ],
+            [
+                [
+                    {
+                        "policyNumber": "JKL654",
+                        "policyType": "Travel Insurance",
+                        "coverageAmount": "¢100,000",
+                        "deductible": "¢200",
+                        "policyPeriod": "2 years"
+                    }
+                ]
+            ]
+        ]
+    },
+    "loading": false,
+    "error": null
+}
